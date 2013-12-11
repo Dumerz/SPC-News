@@ -12,8 +12,10 @@ Note:
   
   The contributors for these project are the following:
   
-  Paul Orlan L. Dumdum
+  <ul>
+  <li>Paul Orlan L. Dumdum</li>
   
-  Gimuelle Cierte
+  <li>Gimuelle Cierte<li>
   
-  Jewelson Capuno
+  <li>Jewelson Capuno</li>
+  </ul>
