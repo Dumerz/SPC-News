@@ -14,8 +14,7 @@ Note:
   
   <ul>
   <li>Paul Orlan L. Dumdum</li>
-  
-  <li>Gimuelle Cierte<li>
-  
+  <li>Gimuelle Cierte</li>
   <li>Jewelson Capuno</li>
   </ul>
+  
